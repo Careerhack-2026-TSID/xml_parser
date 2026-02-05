@@ -1,0 +1,37 @@
+*.xml
+Makefile
+.libs
+*.lo
+Debug
+Debug-w
+Release
+Release-w
+expat.ncb
+expat.opt
+expat.plg
+Debug_static
+Debug-w_static
+Release_static
+Release-w_static
+expat_static.plg
+expatw.plg
+expatw_static.plg
+
+# 編譯產出的執行檔
+expat_cli
+agent_expat_cli
+*.exe
+
+# C 語言編譯中間檔
+*.o
+*.obj
+
+# Python 產生的測試資料與快取
+*.xml
+__pycache__/
+.pytest_cache/
+
+# 編輯器與作業系統暫存
+.vscode/
+.idea/
+.DS_Store
