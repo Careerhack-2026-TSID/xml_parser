@@ -54,3 +54,8 @@ echo '<root><node>Hello AI</node></root>' | ./expat_cli
 ---
 
 **準備好接受挑戰了嗎？讓 AI 成為你的副駕駛，帶領這套經典引擎進入現代語言的世界吧！**
+
+
+
+https://github.com/red010182/xml_parser/blob/master/gen_test_cases.py
+https://github.com/red010182/xml_parser/blob/master/judge.py
